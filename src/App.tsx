@@ -217,7 +217,6 @@ export default function App() {
           </div>
           <div className="flex flex-col items-start gap-2 sm:items-end">
             <span className="inline-flex items-center gap-2 rounded-full bg-vibrant/15 px-3 py-2 text-sm text-vibrant ring-1 ring-vibrant/20">Paleta Deep Sea / Dark Pro</span>
-            <span className="inline-flex items-center gap-2 rounded-full bg-slate-800/80 px-3 py-2 text-sm text-slate-300">Interfaz accesible y orientada a usuarios</span>
           </div>
         </div>
       </header>
